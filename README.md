@@ -58,7 +58,7 @@
 
 # \- `app.ipynb`: notebook principal contendo a análise e a aplicação Dash
 
-# \- `ecommerce\\\\\\\_estatistica.csv`: base de dados utilizada
+# \- `ecommerce\_estatistica.csv`: base de dados utilizada
 
 # \- `requirements.txt`: dependências necessárias para execução do projeto
 
